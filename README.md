@@ -55,6 +55,7 @@ Local development setup:
     * `conda create --name data-science-blog-post python=python=3.7.6 pandas=1.0.3 jupyter=1.0.0 matplotlib-base=3.2.1 seaborn=0.10.0 altair=4.1.0`
     * after setting up the environment run `activate data-science-blog-post`
     * clone the github repository to your local machine, open the cloned repo with Visual Studio Code's open folder, and choose correct environment `data-science-blog-post`.
+    * Jupyter notebook with analysis is located [here](./notebooks/seattle_airbnb_analysis.ipynb)
 
 ## Project structure description
 
