@@ -16,7 +16,7 @@
 
 This is the first project of a Data Science Nanodegree with a topic of writing a data science blog post.
 
-For this project, I have a mission to create a blog post and Github repository. Inspiration comes from [Robert's post](**https://medium.com/@rchang**)... Robert is a data scientist at Airbnb.
+For this project, I have a mission to create a blog post and Github repository. Inspiration comes from [Robert's post](https://medium.com/@rchang)... Robert is a data scientist at Airbnb.
 
 Main mission is to...
 
