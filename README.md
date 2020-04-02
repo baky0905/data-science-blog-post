@@ -85,7 +85,7 @@ This is project's file tree:
 
 ## Results
 
-Results are published in a **[Medium article]()**.
+Results are published in a **[Medium article](https://medium.com/@kristijanbakaric/analysis-of-seattles-airbnb-data-3379645f28ba)**.
 
 ## Licence and Acknowledgements
 
